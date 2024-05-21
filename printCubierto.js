@@ -12,3 +12,4 @@ Console.log("l l l");
 Console.log("l l l");
 Console.log("l l l");
 
+console.log("El profe estuvo aquí");
